@@ -1,0 +1,35 @@
+.common{
+    text-align: center;
+    color: royalblue;
+    position: static;
+}
+
+body{
+    background-color: slategrey;
+}
+
+.header{
+    height: 100px;
+    background-color: aqua;
+    line-height: 100px;
+}
+
+.mainbody{
+    background-color: blanchedalmond;
+    right:5px;
+    left:5px;
+}
+
+.footer{
+    height: 50px;
+    background-color: blueviolet;
+    color:whitesmoke;
+    line-height: 50px;
+}
+
+img{
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
